@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="reshot-icon-chat-bubbles-8WLEJSAVGD (2).svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="174"
+     inkscape:window-y="439"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer_1-2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#201602;}</style>
+  </defs>
+  <title
+     id="title6">Asset 3ldpi</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="layer_1-2"
+       data-name="layer 1">
+      <path
+         class="cls-1"
+         d="M9,48a1,1,0,0,1-1-1V41H1a1,1,0,0,1-1-1V16a1,1,0,0,1,1-1H39a1,1,0,0,1,1,1V40a1,1,0,0,1-1,1H21.27L9.5,47.86A1,1,0,0,1,9,48ZM2,39H9a1,1,0,0,1,1,1v5.26l10.5-6.12A1,1,0,0,1,21,39H38V17H2Z"
+         id="path8"
+         style="fill:#ffffff" />
+      <path
+         class="cls-1"
+         d="M47,26H41V24h5V2H10V14H8V1A1,1,0,0,1,9,0H47a1,1,0,0,1,1,1V25A1,1,0,0,1,47,26Z"
+         id="path10"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="19"
+         y="21"
+         width="15"
+         height="2"
+         id="rect12"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="6"
+         y="21"
+         width="10"
+         height="2"
+         id="rect14"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="24"
+         y="27"
+         width="10"
+         height="2"
+         id="rect16"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="6"
+         y="27"
+         width="15"
+         height="2"
+         id="rect18"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="17"
+         y="33"
+         width="11"
+         height="2"
+         id="rect20"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-1"
+         x="6"
+         y="33"
+         width="8"
+         height="2"
+         id="rect22"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="reshot-icon-chat-message-DB87N36K4A.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="131"
+     inkscape:window-y="402"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer_1-2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#201602;}</style>
+  </defs>
+  <title
+     id="title6">Asset 33ldpi</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#000000;fill-opacity:1">
+    <g
+       id="layer_1-2"
+       data-name="layer 1"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         class="cls-1"
+         d="M47,32a1.15,1.15,0,0,1-.26,0l-7.13-1.91A16,16,0,0,1,30.9,32L31,30A14,14,0,0,0,39,28.13a1,1,0,0,1,.76-.1l5.86,1.56L44,23.73a1,1,0,0,1,.1-.76A14,14,0,1,0,18,16c0,.32,0,.65,0,1l-2,.13c0-.36,0-.73,0-1.1a16,16,0,1,1,30.06,7.61L48,30.74A1,1,0,0,1,47,32Z"
+         id="path8"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M1,48a1,1,0,0,1-.71-.29,1,1,0,0,1-.26-1l1.91-7.13a16,16,0,1,1,6.45,6.45L1.26,48A1.15,1.15,0,0,1,1,48Zm7.53-4a1,1,0,0,1,.5.14A14,14,0,1,0,3.87,39a1,1,0,0,1,.1.76L2.41,45.59,8.27,44A.75.75,0,0,1,8.53,44Z"
+         id="path10"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="23"
+         y="15"
+         width="7"
+         height="2"
+         id="rect12"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="32"
+         y="15"
+         width="9"
+         height="2"
+         id="rect14"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="30"
+         y="20"
+         width="7"
+         height="2"
+         id="rect16"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="23"
+         y="10"
+         width="10"
+         height="2"
+         id="rect18"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="35"
+         y="10"
+         width="6"
+         height="2"
+         id="rect20"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M16,32c-2.76,0-5-2.69-5-6a4.68,4.68,0,0,1,5-5,4.68,4.68,0,0,1,5,5C21,29.31,18.76,32,16,32Zm0-9a2.72,2.72,0,0,0-3,3c0,2.21,1.35,4,3,4s3-1.79,3-4A2.72,2.72,0,0,0,16,23Z"
+         id="path22"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M8,45H6V35.58a5,5,0,0,1,4.45-5l5.44-.6.22,2-5.44.61a3,3,0,0,0-2.67,3Z"
+         id="path24"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="10"
+         y="36"
+         width="2"
+         height="10"
+         id="rect26"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M26,44H24V35.58a3,3,0,0,0-2.67-3L15.89,32l.22-2,5.44.6a5,5,0,0,1,4.45,5Z"
+         id="path28"
+         style="fill:#ffffff;fill-opacity:1" />
+      <rect
+         class="cls-1"
+         x="20"
+         y="36"
+         width="2"
+         height="10"
+         id="rect30"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
